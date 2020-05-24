@@ -53,7 +53,6 @@ const blogRoutes = (app, fs) => {
       }
       const inventory = JSON.parse(data);
       const result = inventory.find(({ id }) => id == blogId);
-
       res.status(200).send(result);
     });
   });
