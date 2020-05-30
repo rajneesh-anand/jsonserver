@@ -1,13 +1,13 @@
 [
   {
     "id": 1,
-    "title": "New Business Strategy",
+    "title": "Top Best Yoga Poses For Depression",
     "excerpt": "We have great creative team they always ready to helped you. voluptatem quiase voluptase aspernatur auted fugit",
-    "thumb": "blog/01.jpg",
+    "thumb": "yoga/group/depression.webp",
     "content": "<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aliquam aperiam assumenda culpa cumque debitis dignissimos, dolor dolores doloribus ducimus fuga iusto magni maiores minus nam numquam officiis provident quasi quibusdam quos ratione rem saepe sequi sit unde ut velit vitae. Amet ea error expedita, laboriosam maxime officiis porro ut velit.</p> <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aliquam aperiam assumenda culpa cumque debitis dignissimos, dolor dolores doloribus ducimus fuga iusto magni maiores minus nam numquam officiis provident quasi</p> <blockquote class='blockquote'><p>dolor dolores doloribus ducimus fuga iusto magni maiores minus nam numquam officiis provident quasi</p></blockquote><p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aliquam aperiam assumenda culpa cumque debitis dignissimos, dolor dolores doloribus ducimus fuga iusto magni maiores minus nam numquam officiis provident quasi quibusdam quos ratione rem saepe sequi sit unde ut velit vitae. Amet ea error expedita, laboriosam maxime officiis porro ut velit.</p><p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aliquam aperiam assumenda culpa cumque debitis dignissimos, dolor dolores doloribus ducimus fuga iusto magni maiores minus nam numquam officiis provident quasi</p>",
-    "publishDate": "Feb 01, 2020",
+    "publishDate": "March 06, 2020",
     "author": {
-      "name": "Alex Tuntuni",
+      "name": "JournalNXT",
       "designation": "Content Writer",
       "proPic": "team/01.jpg",
       "socials": {
@@ -15,7 +15,30 @@
         "twitter": "hasthemes",
         "linkedin": "hasthemes"
       }
-    }
+    },
+    "information": [
+      {
+        "title": "New Business Strategy",
+        "desc": "We have great creative team they always ready to helped you. voluptatem quiase voluptase aspernatur auted fugit",
+        "image": "blog/spirituality/01.jpg"
+      },
+
+      {
+        "title": "New Business Strategy",
+        "desc": "We have great creative team they always ready to helped you. voluptatem quiase voluptase aspernatur auted fugit",
+        "image": "blog/spirituality/01.jpg"
+      },
+      {
+        "title": "New Business Strategy",
+        "desc": "We have great creative team they always ready to helped you. voluptatem quiase voluptase aspernatur auted fugit",
+        "image": "blog/spirituality/01.jpg"
+      },
+      {
+        "title": "New Business Strategy",
+        "desc": "We have great creative team they always ready to helped you. voluptatem quiase voluptase aspernatur auted fugit",
+        "image": "blog/spirituality/01.jpg"
+      }
+    ]
   },
   {
     "id": 2,
