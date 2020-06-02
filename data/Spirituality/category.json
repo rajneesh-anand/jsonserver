@@ -1,0 +1,44 @@
+[
+  {
+    "id": 1,
+    "title": "Bound Angle Pose",
+    "category": "Top Best Yoga Poses For Depression",
+    "sktname": "{ Baddha Konasana }",
+    "thumb": "yoga/asana/bap.webp"
+  },
+  {
+    "id": 2,
+    "title": "Dolphin Pose",
+    "category": "Top Best Yoga Poses For Depression",
+    "sktname": "",
+    "thumb": "yoga/asana/dp.webp"
+  },
+  {
+    "id": 3,
+    "title": "Easy Pose",
+    "category": "Top Best Yoga Poses For Depression",
+    "sktname": "{ Sukhasana }",
+    "thumb": "yoga/asana/ep.webp"
+  },
+  {
+    "id": 4,
+    "title": "Corpse Pose",
+    "category": "Top Best Yoga Poses For Depression",
+    "sktname": "{ shah-VAHS-anna }",
+    "thumb": "yoga/asana/cp.webp"
+  },
+  {
+    "id": 5,
+    "title": "Reclining Bound Angle Pose",
+    "category": "Top Best Yoga Poses For Depression",
+    "sktname": "{ Supta Baddha Konasana }",
+    "thumb": "yoga/asana/rbap.webp"
+  },
+  {
+    "id": 6,
+    "title": "Extended Puppy Pose",
+    "category": "Top Best Yoga Poses For Depression",
+    "sktname": "{ Uttana Shishosana }",
+    "thumb": "yoga/asana/epp.webp"
+  }
+]
